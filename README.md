@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Use TinyCard
 
-You can use the [editor on GitHub](https://github.com/TalkingGarfield/TinyCard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+它是一款独立运行在AppleWatch上的单词记忆卡应用。它的作用就如同现实当中的单词卡一样，随时随地记录和翻阅。除此之外，简单的交互和精巧的动画，让运行在AppleWatch上的它也极具活力。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+操作：
+ 
+ 1. 您可以点击加号按钮，结合语音、手写的输入方式，随时随地向单词卡中添加您要学习的单词。
+ 2. 您可以轻触中央区域的那个单词word，来查看您全部的单词，扭转数字表冠来翻阅全部的单词。
+ 
+ 
+ TinyCard 里面有一个小彩蛋 🎉
+ 我们希望您持续添加，持续记，反复回顾，路漫漫其修远兮。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact Me
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TalkingGarfield/TinyCard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+如果您有任何问题或者建议，敬请邮件至809625592@qq.com
